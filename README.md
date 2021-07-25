@@ -170,6 +170,4 @@
 <br />
 <br />
 
-[苏ICP备2020068432号]:(https://beian.miit.gov.cn/#/Integrated/index)
-
-
+[苏ICP备2020068432号](https://beian.miit.gov.cn/#/Integrated/index)
