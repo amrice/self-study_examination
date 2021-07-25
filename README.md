@@ -166,9 +166,11 @@
 [江苏省教育考试公众信息服务平台](http://sdata.jseea.cn/tpl_front/homepage.html)  
 [网易云课堂——大学计算机专业课程体系](http://study.163.com/curricula/cs.htm)  
 [使用bilibili搜索课程](https://search.bilibili.com)
-  
+
 <br />
 <br />
+
+[苏ICP备2020068432号]: https://beian.miit.gov.cn/#/Integrated/index
 
 
 
